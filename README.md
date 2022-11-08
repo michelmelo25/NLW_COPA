@@ -1,1 +1,3 @@
-# copa_web
+# NLW COPA
+
+## Site de apostas
